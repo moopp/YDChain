@@ -1,0 +1,188 @@
+src/tests-tests.o: src/tests.c src/libsecp256k1-config.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/stdio.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/crtdefs.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/_mingw.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/_mingw_mac.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/_mingw_secapi.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/vadefs.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/sdks/_mingw_directx.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/sdks/_mingw_ddk.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/_mingw_print_push.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/_mingw_off_t.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/swprintf.inl \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/sec_api/stdio_s.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/_mingw_print_pop.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/stdlib.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/lib/gcc/i686-w64-mingw32/4.9.2/include-fixed/limits.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/lib/gcc/i686-w64-mingw32/4.9.2/include-fixed/syslimits.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/limits.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/sec_api/stdlib_s.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/malloc.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/time.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/_timeval.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/sec_api/time_s.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/sys/timeb.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/sec_api/sys/timeb_s.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/pthread_time.h \
+ src/secp256k1.c include/secp256k1.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/lib/gcc/i686-w64-mingw32/4.9.2/include/stddef.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/stddef.h \
+ src/util.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/lib/gcc/i686-w64-mingw32/4.9.2/include/stdint.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/stdint.h \
+ src/num_impl.h src/num.h src/field_impl.h src/field_10x26_impl.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/string.h \
+ d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/sec_api/string_s.h \
+ src/field.h src/field_10x26.h src/scalar_impl.h src/group.h src/scalar.h \
+ src/scalar_8x32.h src/scalar_8x32_impl.h src/group_impl.h \
+ src/ecmult_impl.h src/ecmult.h src/ecmult_const_impl.h \
+ src/ecmult_const.h src/ecmult_gen_impl.h src/ecmult_gen.h \
+ src/hash_impl.h src/hash.h src/ecmult_static_context.h src/ecdsa_impl.h \
+ src/ecdsa.h src/eckey_impl.h src/eckey.h \
+ src/modules/recovery/main_impl.h include/secp256k1_recovery.h \
+ include/secp256k1.h src/testrand_impl.h src/testrand.h \
+ contrib/lax_der_parsing.c include/secp256k1.h contrib/lax_der_parsing.h \
+ contrib/lax_der_privatekey_parsing.c \
+ contrib/lax_der_privatekey_parsing.h src/modules/recovery/tests_impl.h
+
+src/libsecp256k1-config.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/stdio.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/crtdefs.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/_mingw.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/_mingw_mac.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/_mingw_secapi.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/vadefs.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/sdks/_mingw_directx.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/sdks/_mingw_ddk.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/_mingw_print_push.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/_mingw_off_t.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/swprintf.inl:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/sec_api/stdio_s.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/_mingw_print_pop.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/stdlib.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/lib/gcc/i686-w64-mingw32/4.9.2/include-fixed/limits.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/lib/gcc/i686-w64-mingw32/4.9.2/include-fixed/syslimits.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/limits.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/sec_api/stdlib_s.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/malloc.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/time.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/_timeval.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/sec_api/time_s.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/sys/timeb.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/sec_api/sys/timeb_s.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/pthread_time.h:
+
+src/secp256k1.c:
+
+include/secp256k1.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/lib/gcc/i686-w64-mingw32/4.9.2/include/stddef.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/stddef.h:
+
+src/util.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/lib/gcc/i686-w64-mingw32/4.9.2/include/stdint.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/stdint.h:
+
+src/num_impl.h:
+
+src/num.h:
+
+src/field_impl.h:
+
+src/field_10x26_impl.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/string.h:
+
+d:/Qt/Qt5.5.1/Tools/mingw492_32/i686-w64-mingw32/include/sec_api/string_s.h:
+
+src/field.h:
+
+src/field_10x26.h:
+
+src/scalar_impl.h:
+
+src/group.h:
+
+src/scalar.h:
+
+src/scalar_8x32.h:
+
+src/scalar_8x32_impl.h:
+
+src/group_impl.h:
+
+src/ecmult_impl.h:
+
+src/ecmult.h:
+
+src/ecmult_const_impl.h:
+
+src/ecmult_const.h:
+
+src/ecmult_gen_impl.h:
+
+src/ecmult_gen.h:
+
+src/hash_impl.h:
+
+src/hash.h:
+
+src/ecmult_static_context.h:
+
+src/ecdsa_impl.h:
+
+src/ecdsa.h:
+
+src/eckey_impl.h:
+
+src/eckey.h:
+
+src/modules/recovery/main_impl.h:
+
+include/secp256k1_recovery.h:
+
+include/secp256k1.h:
+
+src/testrand_impl.h:
+
+src/testrand.h:
+
+contrib/lax_der_parsing.c:
+
+include/secp256k1.h:
+
+contrib/lax_der_parsing.h:
+
+contrib/lax_der_privatekey_parsing.c:
+
+contrib/lax_der_privatekey_parsing.h:
+
+src/modules/recovery/tests_impl.h:
